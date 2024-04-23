@@ -1,0 +1,6 @@
+torch==0.4.1
+pygame
+opencv-python
+numpy
+matplotlib
+torchvision==0.2.2
